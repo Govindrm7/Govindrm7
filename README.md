@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Govind Mudavadkar</h1>
 <h3 align="center">A Passionate Full Stack Developer and Data Scientist Enthusiast</h3>
-<img align="right" alt="coding" width="400" src="[[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ebqtsnvwhvwzxgnpwpx0haqvldgauap6pkjxxo23&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif)"
+<img align="right" alt="coding" width="400" src="[[[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ebqtsnvwhvwzxgnpwpx0haqvldgauap6pkjxxo23&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif)](https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindrm7&label=Profile%20views&color=0e75b6&style=flat" alt="govindrm7" /> </p>
 
