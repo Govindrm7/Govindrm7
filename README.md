@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/govindrm7/govindrm7/main/assets/banner-simple.png" width="100%" alt="Govind Mudavadkar - Banner" />
+  <img src="https://storyset.com/illustration/server/amico#90CAF9FF&hide=&hide=complete" width="100%" alt="Govind Mudavadkar - Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Govind Mudavadkar</h1>
@@ -17,9 +17,8 @@
 ### 🚀 About Me
 
 - 💻 Passionate about crafting web & mobile apps using modern technologies  
-- 📊 Deeply interested in data science and automation  
-- 🌱 Currently learning cloud architecture and scaling microservices  
-- 📫 Reach me at: **govind.m.dev@gmail.com**
+- 📊 Deeply interested in data science and automation and optimization  
+- 🌱 Currently working on the cloud architecture and scaling microservices and LLM and ML   
 
 ---
 
@@ -30,17 +29,6 @@
 </p>
 
 ---
-
-### 💼 Projects Showcase
-
-Here are a few projects I’ve worked on. Find more on [my portfolio](https://govindrm7.io).
-
-- 🔍 **Insightly AI** – NLP-based insights engine built with Python & TensorFlow  
-- 📱 **FlexiFit App** – A cross-platform fitness tracker built using Flutter  
-- 📈 **Dashify** – Interactive dashboards using React & D3.js
-
----
-
 ### 🤝 Let’s Connect
 
 <p align="left">
