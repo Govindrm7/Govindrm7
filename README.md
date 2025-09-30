@@ -31,6 +31,12 @@ GPA: 3.8/4
 
 ## Publications
 
+- **Accelerated Development of Active Pharmaceutical Ingredients with Machine Learning Driven Automated Platforms**  
+  *AIChE, 2025* – [Read here](https://aiche.confex.com/aiche/2025/prelim.cgi/Paper/716182)
+
+- **Automated Data-Rich Leaf Filtration Platform for Accelerated Prediction of Pressure Filtration Performance for API Manufacturing**  
+  *AIChE, 2025* – [Read here](https://aiche.confex.com/aiche/2025/prelim.cgi/Paper/715987)
+  
 - **Gastric Cancer Detection with Ensemble Learning on Digital Pathology**  
   *MDPI Journal, 2024* – [Read here]([https://www.mdpi.com/journal/your-article](https://www.mdpi.com/2075-4418/14/16/1746))
 
