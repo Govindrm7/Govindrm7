@@ -38,13 +38,14 @@ GPA: 3.8/4
   *AIChE, 2025* – [Read here](https://aiche.confex.com/aiche/2025/prelim.cgi/Paper/715987)
   
 - **Gastric Cancer Detection with Ensemble Learning on Digital Pathology**  
-  *MDPI Journal, 2024* – [Read here]([https://www.mdpi.com/journal/your-article](https://www.mdpi.com/2075-4418/14/16/1746))
+  *MDPI Journal, 2024* – [Read here](https://www.mdpi.com/2075-4418/14/16/1746)
 
 - **MRI Image Enhancement using Hybridizations of Contrast Enhancement Techniques**  
-  *IEEE Conference, 2022* – [Read here]([https://ieeexplore.ieee.org/document/your-paper](https://ieeexplore.ieee.org/document/10060125))
+  *IEEE Conference, 2022* – [Read here](https://ieeexplore.ieee.org/document/10060125)
 
 - **Fusion Based Image Enhancement Approach for Brain Tumor Detection**  
-  *IJRITCC Journal, 2023* – [Read here]([https://www.ijritcc.org/view_abstract.php?title=your-paper](https://doi.org/10.17762/ijritcc.v11i10.8610))
+  *IJRITCC Journal, 2023* – [Read here](https://doi.org/10.17762/ijritcc.v11i10.8610)
+
 
 ---
 
