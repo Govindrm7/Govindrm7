@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Govind Mudavadkar!
 
-I'm a Computer Engineering graduate student at Northeastern University with 2+ years of experience leveraging data to support businesses in automated and strategic decision-making. My areas of interest include Full Stack Development, Generative AI, Machine Learning, MLOps, Cloud Development and Natural Language Processing.
+I'm a Computer Engineering graduate student at Northeastern University with 3+ years of experience leveraging data to support businesses in automated and strategic decision-making. My areas of interest include Full Stack Development, Generative AI, Machine Learning, MLOps, Cloud Development and Natural Language Processing.
 
 ---
 
