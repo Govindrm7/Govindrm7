@@ -8,7 +8,7 @@ I'm a Computer Engineering graduate student at Northeastern University with 3+ y
 
 **Northeastern University, Boston, USA**  
 *Master of Science in Computer Engineering* (Sep 2023 – Dec 2025)  
-GPA: 3.7/4  
+GPA: 3.8/4  
 
 **Savitribai Phule Pune University, India**  
 *Bachelor of Engineering in Computer Science and Engineering* (Jul 2019 – Sep 2023)  
