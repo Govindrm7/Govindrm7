@@ -2,6 +2,12 @@
 
 Software + AI/ML engineer. I build agentic AI and full-stack systems from POC to production, plus the evaluation and observability that keep them reliable.
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Govindrm7&label=Profile%20views&color=A9671A&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/Govindrm7?tab=followers"><img src="https://img.shields.io/github/followers/Govindrm7?label=Followers&style=flat-square&color=A9671A&labelColor=1a1813" alt="Followers" /></a>
+  <a href="https://github.com/Govindrm7?tab=repositories"><img src="https://img.shields.io/github/stars/Govindrm7?affiliations=OWNER&label=Stars&style=flat-square&color=A9671A&labelColor=1a1813" alt="Total stars" /></a>
+</p>
+
 ---
 
 ## Education
