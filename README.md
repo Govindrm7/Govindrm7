@@ -37,6 +37,9 @@ GPA: 3.8/4
 
 ## Publications
 
+- **KnovaAI: Advanced Multimodal AI for Chemistry-Aware Document Intelligence**  
+  *AIChE, 2026* – [Read here](https://aiche.confex.com/aiche/2026/prelim.cgi/Paper/738188)
+
 - **Accelerated Development of Active Pharmaceutical Ingredients with Machine Learning Driven Automated Platforms**  
   *AIChE, 2025* – [Read here](https://aiche.confex.com/aiche/2025/prelim.cgi/Paper/716182)
 
@@ -57,7 +60,7 @@ GPA: 3.8/4
 
 ## Contact Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mudavadkar.g@northeastern.edu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mudavadkar.govind@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-mudavadkar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Govindrm7)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://govindrm7.github.io/My_Portfolio/)
