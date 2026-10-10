@@ -24,14 +24,14 @@ GPA: 3.8/4
 
 ## Skills & Technologies
 
-**Programming Languages:** Python, Java, JavaScript, SQL, R, Scala, C++, Kotlin, C, Bash, CUDA, OpenMP  
-**ML & AI Frameworks:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy, MLflow, DVC, Generative AI  
-**Web & Software Development:** Spring Boot, Spring MVC, REST APIs, Angular, React.js, Express.js, HTML, CSS, Bootstrap, Material UI, FastAPI, Node.js  
-**Databases:** MySQL, PostgreSQL, MS SQL Server, MongoDB, NoSQL  
-**DevOps & Deployment:** Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins  
-**Cloud Platforms:** AWS (SageMaker, EC2, Lambda, S3), Azure (Azure ML), Google Cloud Platform (Vertex AI), Oracle Cloud  
-**Data & Analytics Tools:** Hadoop, Spark, Airflow, Tableau, Power BI, Google Analytics, Excel, Dataiku  
-**Other Tools & IDEs:** Git, GitHub, Postman, Jira, Jupyter, VS Code, Eclipse, Android Studio, Linux
+**Generative & Agentic AI:** LLMs (Claude, GPT, Llama), Generative AI, Agentic AI, LangGraph, LangChain, MCP, RAG, Prompt Engineering, Guardrails, Evaluation (LangSmith, RAGAS), Langfuse  
+**Model Training & Serving:** Fine-tuning (LoRA / PEFT), Post-training (SFT, GRPO), RL from Verifiable Rewards, PyTorch, TensorFlow, HuggingFace Transformers, vLLM, Self-hosted LLM Serving, Inference Optimization, Constrained Decoding, Quantization (NF4, INT8, fp8), ONNX  
+**ML, Vision & Modelling:** NLP, Computer Vision (YOLO, Faster R-CNN), ResNet / ViT, VLMs, XGBoost, Ensembles, Bayesian Optimisation, Statistics  
+**Languages:** Python, Java, TypeScript, JavaScript, C++, C#, SQL, R, Scala, CUDA, Bash / Linux  
+**Backend & Web:** FastAPI, Spring Boot, REST APIs, Microservices, Node.js, React, Next.js, Angular, Tailwind, MVC, Apache Camel, Event-Driven Architecture  
+**Data & Storage:** PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Neo4j, Pinecone, Milvus, ChromaDB, Spark, Kafka, MapReduce, Knowledge Graphs, ETL Pipelines  
+**Cloud, DevOps & MLOps:** AWS (Bedrock, S3, SageMaker, Lambda, EC2, DynamoDB), Azure AI Foundry, GCP, Docker, Kubernetes, GitHub Actions, Jenkins, Terraform, CI/CD, MLflow, Observability & Monitoring, Dataiku DSS, HPC / Slurm  
+**Practices:** System Design, Data Structures & Algorithms, OOP, Design Patterns, Agile / Scrum, LLM Evaluation, A/B Testing, Benchmark Design, Statistical Testing, Reproducibility, Testing (JUnit, PyTest), Technical Writing
 
 ---
 
